@@ -1,0 +1,3 @@
+Tupaia_glis=outgroup
+Tupaia_minor=outgroup
+Tupaia_belangeri=outgroup

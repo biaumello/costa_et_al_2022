@@ -1,0 +1,17 @@
+!MRCA='Macaca_mulatta-Miopithecus_talapoin' TaxonA='Macaca_mulatta' TaxonB='Miopithecus_talapoin' mintime=5.00000000 maxtime=23.00000000 calibrationName='Macaca_mulatta-Miopithecus_talapoin-split';
+!MRCA='Colobus_vellerosus-Trachypithecus_auratus' TaxonA='Colobus_vellerosus' TaxonB='Trachypithecus_auratus' mintime=9.80000000 maxtime=23.00000000 calibrationName='Colobus_vellerosus-Trachypithecus_auratus-split';
+!MRCA='Macaca_mulatta-Homo_sapiens' TaxonA='Macaca_mulatta' TaxonB='Homo_sapiens' Distribution=normal mean=30.41000000 stddev=1.72000000 calibrationName='Macaca_mulatta-Homo_sapiens-split';
+!MRCA='Homo_sapiens-Pongo_abelii' TaxonA='Homo_sapiens' TaxonB='Pongo_abelii' Distribution=normal mean=19.78000000 stddev=1.13000000 calibrationName='Homo_sapiens-Pongo_abelii-split';
+!MRCA='Homo_sapiens-Gorilla_gorilla' TaxonA='Homo_sapiens' TaxonB='Gorilla_gorilla' Distribution=normal mean=10.78000000 stddev=0.63000000 calibrationName='Homo_sapiens-Gorilla_gorilla-split';
+!MRCA='Homo_sapiens-Pan_paniscus' TaxonA='Homo_sapiens' TaxonB='Pan_paniscus' Distribution=normal mean=8.48000000 stddev=0.58000000 calibrationName='Homo_sapiens-Pan_paniscus-split';
+!MRCA='Homo_sapiens-Alouatta_pigra' TaxonA='Homo_sapiens' TaxonB='Alouatta_pigra' Distribution=normal mean=43.13000000 stddev=2.44000000 calibrationName='Homo_sapiens-Alouatta_pigra-split';
+!MRCA='Homo_sapiens-Tarsius_tarsier' TaxonA='Homo_sapiens' TaxonB='Tarsius_tarsier' Distribution=normal mean=74.82000000 stddev=4.59000000 calibrationName='Homo_sapiens-Tarsius_tarsier-split';
+!MRCA='Pithecia_monachus-Alouatta_pigra' TaxonA='Pithecia_monachus' TaxonB='Alouatta_pigra' mintime=15.7 maxtime=33.0 calibrationName='Pithecia_monachus-Alouatta_pigra-split';
+!MRCA='Ateles_belzebuth-Alouatta_pigra' TaxonA='Ateles_belzebuth' TaxonB='Alouatta_pigra' mintime=12.8 maxtime=18.0 calibrationName='Ateles_belzebuth-Alouatta_pigra-split';
+!MRCA='Saimiri_sciureus-Cebus_apella' TaxonA='Saimiri_sciureus' TaxonB='Cebus_apella' mintime=12.8 maxtime=18.0 calibrationName='Saimiri_sciureus-Cebus_apella-split';
+!MRCA='Homo_sapiens-Microcebus_mamiratra' TaxonA='Homo_sapiens' TaxonB='Microcebus_mamiratra' Distribution=normal mean=80.31000000 stddev=5.0 calibrationName='Homo_sapiens-Microcebus_mamiratra-split';
+!MRCA='Galago_senegalensis-Microcebus_mamiratra' TaxonA='Galago_senegalensis' TaxonB='Microcebus_mamiratra' Distribution=normal mean=62.11000000 stddev=3.950 calibrationName='Galago_senegalensis-Microcebus_mamiratra-split';
+!MRCA='Galago_senegalensis-Loris_lydekkerianus' TaxonA='Galago_senegalensis' TaxonB='Loris_lydekkerianus' mintime=18.0 maxtime=38.0 calibrationName='Galago_senegalensis-Loris_lydekkerianus-split';
+!MRCA='Galago_senegalensis-Euoticus_elegantulus' TaxonA='Galago_senegalensis' TaxonB='Euoticus_elegantulus' mintime=15.0 maxtime=37.0 calibrationName='Galago_senegalensis-Euoticus_elegantulus-split';
+!MRCA='Perodicticus_potto-Loris_lydekkerianus' TaxonA='Perodicticus_potto' TaxonB='Loris_lydekkerianus' mintime=14.0 maxtime=37.0 calibrationName='Perodicticus_potto-Loris_lydekkerianus-split';
+!MRCA='Homo_sapiens-Galeopterus_variegatus' TaxonA='Homo_sapiens' TaxonB='Galeopterus_variegatus' maxtime=124.0 calibrationName='Homo_sapiens-Galeopterus_variegatus-split';

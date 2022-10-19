@@ -1,0 +1,3 @@
+Protopteridae_Protopterus_aethiopicus=outgroup
+Latimeriidae_Latimeria_chalumnae=outgroup
+Xenopus_tropicalis=outgroup

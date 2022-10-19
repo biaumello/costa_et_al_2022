@@ -1,0 +1,8 @@
+Neotrygon=outgroup
+Raja_clava=outgroup
+Leucoraja=outgroup
+Ginglymost=outgroup
+Chiloscyll=outgroup
+Scyliorhin=outgroup
+Carcharodo=outgroup
+Callorhinc=outgroup

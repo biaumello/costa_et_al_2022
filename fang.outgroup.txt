@@ -1,0 +1,2 @@
+GA-JP-JS-1_1=outgroup
+GA-JP-JS-2_1=outgroup

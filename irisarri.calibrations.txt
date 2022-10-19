@@ -1,0 +1,14 @@
+!MRCA='Polypterus-Calotriton' TaxonA='Polypterus' TaxonB='Calotriton' MaxTime=462.50000000 calibrationName='Polypterus-Calotriton-split';
+!MRCA='Neoceratod-Calotriton' TaxonA='Neoceratod' TaxonB='Calotriton' MinTime=408.00000000 MaxTime=419.00000000 calibrationName='Neoceratod-Calotriton-split';
+!MRCA='Rhinatrema-Gallus gal' TaxonA='Rhinatrema' TaxonB='Gallus gal' MinTime=330.40000000 MaxTime=350.10000000 calibrationName='Rhinatrema-Gallus gal-split';
+!MRCA='Pelusios c-Emys orbic' TaxonA='Pelusios c' TaxonB='Emys orbic' MinTime=210.00000000 calibrationName='Pelusios c-Emys orbic-split';
+!MRCA='Pelusios c-Phrynops h' TaxonA='Pelusios c' TaxonB='Phrynops h' MinTime=25.00000000 calibrationName='Pelusios c-Phrynops h-split';
+!MRCA='Sphenodon-Carlia rub' TaxonA='Sphenodon' TaxonB='Carlia rub' MinTime=238.00000000 calibrationName='Sphenodon-Carlia rub-split';
+!MRCA='Elgaria mu-Pantheroph' TaxonA='Elgaria mu' TaxonB='Pantheroph' MinTime=148.00000000 calibrationName='Elgaria mu-Pantheroph-split';
+!MRCA='Anolis car-Iguana igu' TaxonA='Anolis car' TaxonB='Iguana igu' MinTime=125.00000000 calibrationName='Anolis car-Iguana igu-split';
+!MRCA='Mus muscul-Homo sapie' TaxonA='Mus muscul' TaxonB='Homo sapie' MinTime=61.50000000 MaxTime=100.50000000 calibrationName='Mus muscul-Homo sapie-split';
+!MRCA='Andrias da-Pipa pipa' TaxonA='Andrias da' TaxonB='Pipa pipa' MinTime=249.00000000 calibrationName='Andrias da-Pipa pipa-split';
+!MRCA='Andrias da-Hynobius c' TaxonA='Andrias da' TaxonB='Hynobius c' MinTime=145.50000000 calibrationName='Andrias da-Hynobius c-split';;
+!MRCA='Bombina ma-Pipa pipa' TaxonA='Bombina ma' TaxonB='Pipa pipa' MinTime=161.20000000 calibrationName='Bombina ma-Pipa pipa-split';
+!MRCA='Pipa pipa-Rana chens' TaxonA='Pipa pipa' TaxonB='Rana chens' MinTime=145.50000000 calibrationName='Pipa pipa-Rana chens-split';
+!MRCA='Pipa pipa-Hymenochir' TaxonA='Pipa pipa' TaxonB='Hymenochir' MinTime=86.00000000 calibrationName='Pipa pipa-Hymenochir-split';
