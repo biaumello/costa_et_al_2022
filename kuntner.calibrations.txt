@@ -1,0 +1,2 @@
+!MRCA='tricho' TaxonA='I13826_NEP54_Araneae_Nephilidae_Nephila_sexpunctata_seq1' TaxonB='I13827_NEP141_Araneae_Nephilidae_Nephila_sumptuosa_seq1' MinTime=16.000 MaxTime=23.000 calibrationName='tricho';
+!MRCA='neph1' TaxonA='I13805_NEP55_Araneae_Nephilidae_Herennia_etruscilla_seq1' TaxonB='I16339_NEP40_Araneae_Nephilidae_Nephila_constricta_seq1' MinTime=97.000 MaxTime=146.000 calibrationName='neph1';

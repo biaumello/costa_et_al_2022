@@ -1,0 +1,49 @@
+#NEXUS
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=30;
+	TAXLABELS
+		Puelia_olyriformis Agrostis_stolonifera Aristida_purpurea Bambusa_emelensis Brachypodium_distachyon Cenchrus_americanus Centotheca_lappacea Danthonia_californica Digitaria_exilis Echinochloa_oryzicola Eriachne_stipacea Festuca_arundinacea Hordeum_vulgare Leersia_tisserantii Lolium_perenne Neyraudia_reynaudiana Olyra_latifolia Oryza_sativa Phragmites_australis Phyllostachys_edulis Panicum_virgatum Rhynchoryza_subulata Setaria_italica Sorghum_bicolor Triticum_aestivum Urochloa_decumbens Urochloa_humidicola Urochloa_ruziziensis Urochloa_brizantha Zea_mays 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title BEAST_combined_tree;
+	ID 0155a6853d0214;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Puelia_olyriformis,
+[1] 		2 Agrostis_stolonifera,
+[2] 		3 Aristida_purpurea,
+[3] 		4 Bambusa_emelensis,
+[4] 		5 Brachypodium_distachyon,
+[5] 		6 Cenchrus_americanus,
+[6] 		7 Centotheca_lappacea,
+[7] 		8 Danthonia_californica,
+[8] 		9 Digitaria_exilis,
+[9] 		10 Echinochloa_oryzicola,
+[10] 		11 Eriachne_stipacea,
+[11] 		12 Festuca_arundinacea,
+[12] 		13 Hordeum_vulgare,
+[13] 		14 Leersia_tisserantii,
+[14] 		15 Lolium_perenne,
+[15] 		16 Neyraudia_reynaudiana,
+[16] 		17 Olyra_latifolia,
+[17] 		18 Oryza_sativa,
+[18] 		19 Phragmites_australis,
+[19] 		20 Phyllostachys_edulis,
+[20] 		21 Panicum_virgatum,
+[21] 		22 Rhynchoryza_subulata,
+[22] 		23 Setaria_italica,
+[23] 		24 Sorghum_bicolor,
+[24] 		25 Triticum_aestivum,
+[25] 		26 Urochloa_decumbens,
+[26] 		27 Urochloa_humidicola,
+[27] 		28 Urochloa_ruziziensis,
+[28] 		29 Urochloa_brizantha,
+[29] 		30 Zea_mays;
+	TREE TREE1 = (1:54.10132639260013,((((((2:19.104788877653817,(12:12.305493266384925,15:12.305493266384925):6.799295609741716):7.403058522709486,(13:12.529234455862786,25:12.529234455862786):13.978612948858563):5.938311030780238,5:32.446158437606115):11.793503576242209,((4:22.243532642485604,17:22.243532642485604):5.240962978503195,20:27.484495612386315):16.755166394697724):3.2683276525196803,((14:15.977747991284405,18:15.977747991284405):10.155488665126857,22:26.133236646592625):21.37475300894545):3.7891807461877036,(3:38.0075575915945,((((((((6:5.659020793656233,23:5.659020793656233):9.708466773462764,(((26:1.600366594789252,29:1.600366594789252):4.071837667255678,28:5.672204261252007):3.790058356516436,27:9.462262618662402):5.905224947482553):2.061321845794266,21:17.428809414027917):3.0988296967490037,10:20.52763911128536):1.1437755251658785,9:21.67141463565552):3.8717454281218764,(24:9.809959660878913,30:9.809959660878913):15.733200400445687):5.879002002571063,7:31.422162068961427):5.186353612201348,((8:29.39702869731029,16:29.39702869731029):4.312190039713087,(11:30.634411459072815,19:30.634411459072815):3.0748072713967325):2.8992969458611952):1.3990418974325536):13.289612827174679):2.8041559790977146):0.0;
+
+END;

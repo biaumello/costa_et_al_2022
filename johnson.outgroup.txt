@@ -1,0 +1,5 @@
+Baetis_sp=outgroup
+Calopteryx_splendens=outgroup
+Cordulegaster_boltoni=outgroup
+Epiophlebia_superstes=outgroup
+Eurylophella_sp=outgroup

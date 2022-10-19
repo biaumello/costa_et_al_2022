@@ -1,0 +1,14 @@
+!MRCA='Acantholyda hieroglyphica-Tetragonula carbonaria' TaxonA='Acantholyda hieroglyphica' TaxonB='Tetragonula carbonaria' MinTime=226.40000000 MaxTime=412.00000000 calibrationName='Acantholyda hieroglyphica-Tetragonula carbonaria-split';
+!MRCA='Pelecinus polyturator-Brachyserphus parvulus' TaxonA='Pelecinus polyturator' TaxonB='Brachyserphus parvulus' MinTime=158.00000000 calibrationName='Pelecinus polyturator-Brachyserphus parvulus-split';
+!MRCA='Brachygaster minuta-Aulacus burquei' TaxonA='Brachygaster minuta' TaxonB='Aulacus burquei' MinTime=130.00000000 calibrationName='Brachygaster minuta-Aulacus burquei-split';
+!MRCA='Macropis fulvipes-Melitta haemorrhoidalis' TaxonA='Macropis fulvipes' TaxonB='Melitta haemorrhoidalis' MinTime=50.00000000 calibrationName='Macropis fulvipes-Melitta haemorrhoidalis-split';
+!MRCA='Anthophora plumipes-Thyreus orbatus' TaxonA='Anthophora plumipes' TaxonB='Thyreus orbatus' MinTime=60.00000000 calibrationName='Anthophora plumipes-Thyreus orbatus-split';
+!MRCA='Bombus rupestris-Tetragonula carbonaria' TaxonA='Bombus rupestris' TaxonB='Tetragonula carbonaria' MinTime=16.00000000 calibrationName='Bombus rupestris-Tetragonula carbonaria-split';
+!MRCA='Ceraphron sp-Cotesia_vestalis' TaxonA='Ceraphron sp' TaxonB='Cotesia_vestalis' MinTime=130.00000000 calibrationName='Ceraphron sp-Cotesia_vestalis-split';
+!MRCA='Macrocentrus marginator-Pimpla_flavicoxis' TaxonA='Macrocentrus marginator' TaxonB='Pimpla_flavicoxis' MinTime=99.00000000 calibrationName='Macrocentrus marginator-Pimpla_flavicoxis-split';
+!MRCA='Pediaspis aceris-Telenomus_sp' TaxonA='Pediaspis aceris' TaxonB='Telenomus_sp' MinTime=78.00000000 calibrationName='Pediaspis aceris-Telenomus_sp-split';
+!MRCA='Gonatocerus morrilli-Trichopria_drosophilae' TaxonA='Gonatocerus morrilli' TaxonB='Trichopria_drosophilae' MinTime=130.00000000 calibrationName='Gonatocerus morrilli-Trichopria_drosophilae-split';
+!MRCA='Chrysis viridula-Meria_tripunctata' TaxonA='Chrysis viridula' TaxonB='Meria_tripunctata' MinTime=130.00000000 calibrationName='Chrysis viridula-Meria_tripunctata-split';
+!MRCA='Tiphia femorata-Pompilus_cinereus' TaxonA='Tiphia femorata' TaxonB='Pompilus_cinereus' MinTime=112.60000000 calibrationName='Tiphia femorata-Pompilus_cinereus-split';
+!MRCA='Auplopus albifrons-Pompilus_cinereus' TaxonA='Auplopus albifrons' TaxonB='Pompilus_cinereus' MinTime=34.00000000 calibrationName='Auplopus albifrons-Pompilus_cinereus-split';
+!MRCA='Ampulex fasciata-Bombus rupestris' TaxonA='Ampulex fasciata' TaxonB='Bombus rupestris' MinTime=99.00000000 calibrationName='Ampulex fasciata-Bombus rupestris-split';

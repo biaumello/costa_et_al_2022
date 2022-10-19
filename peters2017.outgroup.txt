@@ -1,0 +1,5 @@
+Pseudomallada_prasinus=outgroup
+Xanthostigma_xanthostigma=outgroup
+Gyrinus_marinus=outgroup
+Corydalus_cornutus=outgroup
+Tribolium_castaneum=outgroup

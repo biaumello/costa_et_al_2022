@@ -1,0 +1,2 @@
+Alligator_sinensis=outgroup
+Gallus_gallus=outgroup

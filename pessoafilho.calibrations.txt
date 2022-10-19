@@ -1,0 +1,1 @@
+!MRCA='Rhynchoryza subulata-Centotheca lappacea' TaxonA='Rhynchoryza subulata' TaxonB='Centotheca lappacea' Distribution=exponential offset=35.00000000 lambda=0.0500000 calibrationName='Rhynchoryza subulata-Centotheca lappacea-split';
