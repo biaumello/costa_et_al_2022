@@ -1,0 +1,2 @@
+Monomorium_hanneli=outgroup
+Pheidole_longispinosa=outgroup

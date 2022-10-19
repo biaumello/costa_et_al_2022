@@ -1,0 +1,6 @@
+!MRCA='Lerema_accius-Heliconius_melpomene' TaxonA='Lerema_accius' TaxonB='Heliconius_melpomene' MinTime=55.000000 MaxTime=150.00000000 calibrationName='Hesperiidae';
+!MRCA='Lerema_accius-Baronia_brevicornis' TaxonA='Lerema_accius' TaxonB='Baronia_brevicornis' MaxTime=150.00000000 calibrationName='Papilionoidae';
+!MRCA='Polygonia_calbum-Heliconius_melpomene' TaxonA='Polygonia_calbum' TaxonB='Heliconius_melpomene' MinTime=33.900000 MaxTime=150.00000000 calibrationName='Nymphalidae';
+!MRCA='Baronia_brevicornis-Troides_plateni' TaxonA='Baronia_brevicornis' TaxonB='Troides_plateni' MinTime=47.800000 MaxTime=150.00000000 calibrationName='Papilionidae';
+!MRCA='Parnassius_imperator-Allancastria_cerisyi' TaxonA='Parnassius_imperator' TaxonB='Allancastria_cerisyi' MinTime=23.03000000 MaxTime=150.00000000 calibrationName='Parnasiinae';
+!MRCA='Archon_apollinus-Luehdorfia_japonica' TaxonA='Archon_apollinus' TaxonB='Luehdorfia_japonica' MinTime=5.33000000 MaxTime=150.00000000 calibrationName='Luedorfiini';

@@ -1,0 +1,3 @@
+!MRCA='Haplotaxis_gordioides-Avelora_ligra' TaxonA='Haplotaxis_gordioides' TaxonB='Avelora_ligra' MaxTime=520.00000000 calibrationName='Haplotaxis gordioides-Avelora ligra-split';
+!MRCA='Hemigastrodrilus_monicae-Vignysa_popi' TaxonA='Hemigastrodrilus_monicae' TaxonB='Vignysa_popi' MinTime=67.00000000 MaxTime=97.00000000 calibrationName='Hemigastrodrilus monicae-Vignysa popi-split';
+!MRCA='Lumbriculus_variegatus-Avelora_ligra' TaxonA='Lumbriculus_variegatus' TaxonB='Avelora_ligra' MinTime=201.00000000 MaxTime=520.00000000 calibrationName='Lumbriculus_variegatus-Avelora ligra-split';

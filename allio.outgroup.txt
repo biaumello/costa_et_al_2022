@@ -1,0 +1,2 @@
+Choristoneura_fumiferana=outgroup
+Bombyx_mori=outgroup
