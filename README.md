@@ -1,8 +1,10 @@
 # costa_et_al_2022
 
+Data from Costa, Schrago & Mello (2022)
 
-This repository contains the files used in Costa, Schrago & Mello (2022) - Accessing the relative performance of fast molecular dating methods for phylogenomic data.
+This repository contains the data files used in Costa, Schrago & Mello (2022) - Accessing the relative performance of fast molecular dating methods for phylogenomic data.
 
+Any questions: bmello@biologia.ufrj.br
 
 *.align.fas: alignments
 
