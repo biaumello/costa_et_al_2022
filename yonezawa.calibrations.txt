@@ -1,0 +1,7 @@
+!MRCA='Alligator-Caiman' TaxonA='Alligator' TaxonB='Caiman' MinTime=66.00000000 MaxTime=71.00000000 calibrationName='Alligator-Caiman-split';
+!MRCA='Swift-Humming bird' TaxonA='Swift' TaxonB='Humming bird' MinTime=47.00000000 MaxTime=53.00000000 calibrationName='Swift-Humming bird-split';
+!MRCA='Shorebird-Shorebird2' TaxonA='Shorebird' TaxonB='Shorebird2' MinTime=30.00000000 MaxTime=32.00000000 calibrationName='Shorebird-Shorebird2-split';
+!MRCA='Petrel-Penguin' TaxonA='Petrel' TaxonB='Penguin' MinTime=60.00000000 MaxTime=62.00000000 calibrationName='Petrel-Penguin-split';
+!MRCA='Dromaius novaehollandiae-Casuarius casuarius' TaxonA='Dromaius novaehollandiae' TaxonB='Casuarius casuarius' MinTime=25.00000000 MaxTime=35.00000000 calibrationName='Dromaius novaehollandiae-Casuarius casuarius-split';
+!MRCA='Alligator-Gavia' TaxonA='Alligator' TaxonB='Gavia' MinTime=243.00000000 MaxTime=259.00000000 calibrationName='Alligator-Gavia-split';
+!MRCA='Anatidae-Anseranas_semipalmata' TaxonA='Anatidae' TaxonB='Anseranas_semipalmata' MinTime=66.00000000 MaxTime=68.00000000 calibrationName='Anatidae-Anseranas_semipalmata-split';

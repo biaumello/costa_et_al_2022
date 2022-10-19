@@ -1,0 +1,10 @@
+Synergus_umbraculus=outgroup
+Brachyserphus_parvulus=outgroup
+Inostemma_sp=outgroup
+Pelecinus_polyturator=outgroup
+Pediaspis_aceris=outgroup
+Ibalia_leucospoides=outgroup
+Trissolcus_semistriatus=outgroup
+Andricus_quercuscalicis=outgroup
+Leptopilina_clavipes=outgroup
+Telenomus_sp=outgroup

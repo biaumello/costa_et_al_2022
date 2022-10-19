@@ -1,0 +1,9 @@
+!MRCA='Par-Pit' TaxonA='Par' TaxonB='Pit' MinTime=85.00000000 calibrationName='Par-Pit-split';
+!MRCA='Abi-Ket' TaxonA='Abi' TaxonB='Ket' MinTime=45.50000000 calibrationName='Abi-Ket-split';
+!MRCA='Par-Tsu' TaxonA='Par' TaxonB='Tsu' MaxTime=306.00000000 calibrationName='Par-Tsu-split';
+!MRCA='Cat-Pit' TaxonA='Cat' TaxonB='Pit' MinTime=133.00000000 calibrationName='Cat-Pit-split';
+
+
+
+
+

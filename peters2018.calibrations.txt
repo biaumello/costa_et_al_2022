@@ -1,0 +1,4 @@
+!MRCA='Trichopria_drosophilae-Oodera sp' TaxonA='Trichopria_drosophilae' TaxonB='Oodera sp' MaxTime=300.00000000 calibrationName='Trichopria_drosophilae-Oodera sp-split';
+!MRCA='Gonatocerus morrilli-Elisabethiella stueckenbergi' TaxonA='Gonatocerus morrilli' TaxonB='Elisabethiella stueckenbergi' MinTime=120.00000000 calibrationName='Gonatocerus morrilli-Elisabethiella stueckenbergi-split';
+!MRCA='Brachymeria minuta-Sycophila biguttata' TaxonA='Brachymeria minuta' TaxonB='Sycophila biguttata' MinTime=52.00000000 calibrationName='Brachymeria minuta-Sycophila biguttata-split';
+!MRCA='Leucospis dorsigera-Oodera sp' TaxonA='Leucospis dorsigera' TaxonB='Oodera sp' MinTime=15.00000000 calibrationName='Leucospis dorsigera-Oodera sp-split';

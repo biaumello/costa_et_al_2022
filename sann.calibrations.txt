@@ -1,0 +1,10 @@
+!MRCA='Ampulex compressa-Foxita bara ssp patei1' TaxonA='Ampulex compressa' TaxonB='Foxita bara ssp patei1' MinTime=98.20000000 MaxTime=250.00000000 calibrationName='Ampulex compressa-Foxita bara ssp patei1-split';
+!MRCA='Chlorion hirtum-Sceliphron curvatum' TaxonA='Chlorion hirtum' TaxonB='Sceliphron curvatum' MinTime=33.90000000 calibrationName='Chlorion hirtum-Sceliphron curvatum-split';
+!MRCA='Lindenius panzeri2-Crabro peltarius' TaxonA='Lindenius panzeri2' TaxonB='Crabro peltarius' MinTime=13.65000000 calibrationName='Lindenius panzeri2-Crabro peltarius-split';
+!MRCA='Trypoxylon lactitarse-Pison atrum' TaxonA='Trypoxylon lactitarse' TaxonB='Pison atrum' MinTime=13.65000000 calibrationName='Trypoxylon lactitarse-Pison atrum-split';
+!MRCA='Sphecius convallis-Hoplisoides spec' TaxonA='Sphecius convallis' TaxonB='Hoplisoides spec' MinTime=33.90000000 calibrationName='Sphecius convallis-Hoplisoides spec-split';
+!MRCA='Stigmus spec1-Spilomena beata' TaxonA='Stigmus spec1' TaxonB='Spilomena beata' MinTime=89.30000000 calibrationName='Stigmus spec1-Spilomena beata-split';
+!MRCA='Polemistus spec-Passaloecus eremita' TaxonA='Polemistus spec' TaxonB='Passaloecus eremita' MinTime=34.00000000 calibrationName='Polemistus spec-Passaloecus eremita-split';
+!MRCA='Ammoplanus spec-Melitta haemorrhoidalis' TaxonA='Ammoplanus spec' TaxonB='Melitta haemorrhoidalis' MinTime=98.20000000 calibrationName='Ammoplanus spec-Melitta haemorrhoidalis-split';
+!MRCA='Bombus rupestris-Tetragonula carbonaria' TaxonA='Bombus rupestris' TaxonB='Tetragonula carbonaria' MinTime=50.00000000 calibrationName='Bombus rupestris-Tetragonula carbonaria-split';
+!MRCA='Epeolus variegatus-Ammobates syriacus' TaxonA='Epeolus variegatus' TaxonB='Ammobates syriacus' MinTime=60.00000000 calibrationName='Epeolus variegatus-Ammobates syriacus-split';

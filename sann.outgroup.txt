@@ -1,0 +1,9 @@
+Camponotus_floridanus=outgroup
+Acromyrmex_echinatior=outgroup
+Harpegnathos_saltator=outgroup
+Tiphia_femorata=outgroup
+Sapyga_quinquepunctata=outgroup
+Smicromyrme_rufipes=outgroup
+Pompilus_cinereus=outgroup
+Scolia_hirta=outgroup
+Colpa_sexmaculata=outgroup
