@@ -1,0 +1,12 @@
+!MRCA='Homo sapiens-Branchiostoma floridae' TaxonA='Homo sapiens' TaxonB='Branchiostoma floridae' MinTime=519.00000000 MaxTime=581.00000000 calibrationName='Chordata';
+!MRCA='Homo sapiens-Ciona robusta' TaxonA='Homo sapiens' TaxonB='Ciona robusta' MinTime=519.00000000 MaxTime=581.00000000 calibrationName='Homo sapiens-Ciona robusta-split';
+!MRCA='Homo sapiens-Callorhinchus milii' TaxonA='Homo sapiens' TaxonB='Callorhinchus milii' MinTime=422.00000000 MaxTime=463.00000000 calibrationName='Homo sapiens-Callorhinchus milii-split';
+!MRCA='Oreochromis niloticus-Danio rerio' TaxonA='Oreochromis niloticus' TaxonB='Danio rerio' MinTime=150.00000000 MaxTime=165.00000000 calibrationName='Oreochromis niloticus-Danio rerio-split';
+!MRCA='Anolis carolinensis-Gallus gallus' TaxonA='Anolis carolinensis' TaxonB='Gallus gallus' MinTime=256.00000000 MaxTime=300.00000000 calibrationName='Anolis carolinensis-Gallus gallus-split';
+!MRCA='Ambystoma mexicanum-Xenopus laevis' TaxonA='Ambystoma mexicanum' TaxonB='Xenopus laevis' MinTime=200.00000000 MaxTime=299.00000000 calibrationName='Ambystoma mexicanum-Xenopus laevis-split';
+!MRCA='Homo sapiens-Danio rerio' TaxonA='Homo sapiens' TaxonB='Danio rerio' MinTime=416.00000000 MaxTime=422.00000000 calibrationName='Homo sapiens-Danio rerio-split';
+!MRCA='Xenopus laevis-Homo sapiens' TaxonA='Xenopus laevis' TaxonB='Homo sapiens' MinTime=330.00000000 MaxTime=350.00000000 calibrationName='Xenopus laevis-Homo sapiens-split';
+!MRCA='Homo sapiens-Petromyzon marinus' TaxonA='Homo sapiens' TaxonB='Petromyzon marinus' MinTime=461.00000000 MaxTime=581.00000000 calibrationName='Homo sapiens-Petromyzon marinus-split';
+!MRCA='Homo sapiens-Monodelphis domestica' TaxonA='Homo sapiens' TaxonB='Monodelphis domestica' MinTime=124.00000000 MaxTime=171.00000000 calibrationName='Homo sapiens-Monodelphis domestica-split';
+!MRCA='Homo sapiens-Ornithorhynchus anatinus' TaxonA='Homo sapiens' TaxonB='Ornithorhynchus anatinus' MinTime=163.00000000 MaxTime=191.00000000 calibrationName='Homo sapiens-Ornithorhynchus anatinus-split';
+!MRCA='Homo sapiens-Gallus gallus' TaxonA='Homo sapiens' TaxonB='Gallus gallus' MinTime=312.00000000 MaxTime=330.00000000 calibrationName='Homo sapiens-Gallus gallus-split';

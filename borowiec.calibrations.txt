@@ -1,0 +1,4 @@
+!MRCA='Chrysapace TH M156-Yunodorylus TH M191' TaxonA='Chrysapace TH M156' TaxonB='Yunodorylus TH M191' MinTime=33.90000000 MaxTime=85.00000000 calibrationName='Chrysapace TH M156-Yunodorylus TH M191-split';
+!MRCA='Cylindromyrmex meinerti D778-Cylindromyrmex darlingtoni M211' TaxonA='Cylindromyrmex meinerti D778' TaxonB='Cylindromyrmex darlingtoni M211' MinTime=13.70000000 MaxTime=43.00000000 calibrationName='Cylindromyrmex meinerti D778-Cylindromyrmex darlingtoni M211-split';
+!MRCA='Eciton hamatum M293-Neivamyrmex californicus M272' TaxonA='Eciton hamatum M293' TaxonB='Neivamyrmex californicus M272' MinTime=16.00000000 MaxTime=46.00000000 calibrationName='Eciton hamatum M293-Neivamyrmex californicus M272-split';
+!MRCA='Vicinopone_conciliatrix_M128-Eciton hamatum M293' TaxonA='Vicinopone_conciliatrix_M128' TaxonB='Eciton hamatum M293' MaxTime=135.00000000 calibrationName='SubstitutoDaCalibNaRaiz';

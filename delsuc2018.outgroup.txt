@@ -1,0 +1,10 @@
+Xenoturbella_bocki=outgroup
+Saccoglossus_kowalevskii=outgroup
+Ptychodera_flava=outgroup
+Patiria_miniata=outgroup
+Ophionotus_victoriae=outgroup
+Holothuria_glaberrima=outgroup
+Apostichopus_japonicus=outgroup
+Eucidaris_tribuloides=outgroup
+Strongylocentrotus_purpuratus=outgroup
+Lytechinus_variegatus=outgroup

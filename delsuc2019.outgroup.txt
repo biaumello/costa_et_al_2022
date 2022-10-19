@@ -1,0 +1,3 @@
+Loxodonta_africana_NC_000934=outgroup
+Dugong_dugon_NC_003314=outgroup
+Orycteropus_afer_NC_002078=outgroup

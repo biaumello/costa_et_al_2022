@@ -1,0 +1,18 @@
+!MRCA='AW97_Hasora_khoda-342_ADW_Viola_minor' TaxonA='AW97_Hasora_khoda' TaxonB='342_ADW_Viola_minor' MinTime=55.60000000 MaxTime=140.00000000 calibrationName='Protocoeliades_kristenseni-split';
+!MRCA='304_ADW_Signeta_flammeata-RS_hsp_13_Fresna_nyassae' TaxonA='304_ADW_Signeta_flammeata' TaxonB='RS_hsp_13_Fresna_nyassae' MinTime=23.00000000 MaxTime=140.00000000 calibrationName='Pamphilites_abdita-split';
+!MRCA='339_ADW_Sovia_albipectus-RS_hsp_13_Fresna_nyassae' TaxonA='339_ADW_Sovia_albipectus' TaxonB='RS_hsp_13_Fresna_nyassae' MaxTime=65.00000000 calibrationName='Poaceae-split';
+!MRCA='NW149_5_Leptidea_sinapis-MFB_00_P204_Zerene_cesonia' TaxonA='NW149_5_Leptidea_sinapis' TaxonB='MFB_00_P204_Zerene_cesonia' MaxTime=100.00000000 calibrationName='Fabaceae-split';
+!MRCA='SC_01_T380_Pseudopontia_paradoxa-MFB_00_P204_Zerene_cesonia' TaxonA='SC_01_T380_Pseudopontia_paradoxa' TaxonB='MFB_00_P204_Zerene_cesonia' MinTime=15.90000000 MaxTime=100.00000000 calibrationName='Mylothrites_pluto-split';
+!MRCA='MFB_00_P204_Zerene_cesonia-MFB_00_P469_Aoa_affinis' TaxonA='MFB_00_P204_Zerene_cesonia' TaxonB='MFB_00_P469_Aoa_affinis' MaxTime=103.00000000 calibrationName='Brassicales-split';
+!MRCA='NS0058_Leucochimona_icare-NS0191_Mesophthalma_idotea' TaxonA='NS0058_Leucochimona_icare' TaxonB='NS0191_Mesophthalma_idotea' MaxTime=87.00000000 calibrationName='Rubiaceae-split';
+!MRCA='NS0313_Hyphilaria_thasus-NS0375_Voltinia_cebrenia' TaxonA='NS0313_Hyphilaria_thasus' TaxonB='NS0375_Voltinia_cebrenia' MinTime=15.90000000 MaxTime=140.00000000 calibrationName='Voltinia_dramba-split';
+!MRCA='NS0004_Theope-NS0457_Pseudotinea_hemis' TaxonA='NS0004_Theope' TaxonB='NS0457_Pseudotinea_hemis' MinTime=15.90000000 MaxTime=100.00000000 calibrationName='Theopesp-split';
+!MRCA='CP15_04_Dira_clytus-NW101_2_Zeuxidia_dorhni' TaxonA='CP15_04_Dira_clytus' TaxonB='NW101_2_Zeuxidia_dorhni' MinTime=13.00000000 MaxTime=65.00000000 calibrationName='Neorinella_garciae-split';
+!MRCA='CP15_04_Dira_clytus-EW25_23_Neope_bremeri' TaxonA='CP15_04_Dira_clytus' TaxonB='EW25_23_Neope_bremeri' MinTime=28.30000000 MaxTime=65.00000000 calibrationName='Lethe_corbieri-split';
+!MRCA='NW71_1_Libythea_celtis-NW70_9_Greta_morgane' TaxonA='NW71_1_Libythea_celtis' TaxonB='NW70_9_Greta_morgane' MinTime=33.80000000 MaxTime=140.00000000 calibrationName='Prolibythea_vagabunda-split';
+!MRCA='NW84_14_Idea_leuconoe-NW70_9_Greta_morgane' TaxonA='NW84_14_Idea_leuconoe' TaxonB='NW70_9_Greta_morgane' MaxTime=69.00000000 calibrationName='Apocynaceae-split';
+!MRCA='MD_2_Aeria_olena-NW70_9_Greta_morgane' TaxonA='MD_2_Aeria_olena' TaxonB='NW70_9_Greta_morgane' MaxTime=87.00000000 calibrationName='Solanaceae-split';
+!MRCA='NW109_8_Panacea_regina-NW85_11_Nica_flavilla' TaxonA='NW109_8_Panacea_regina' TaxonB='NW85_11_Nica_flavilla' MinTime=15.90000000 MaxTime=89.00000000 calibrationName='Euphorbiaceae-split';
+!MRCA='NW152_10_Dynamine_serina-bb30_Cybdelis_phaisile' TaxonA='NW152_10_Dynamine_serina' TaxonB='bb30_Cybdelis_phaisile' MinTime=15.90000000 MaxTime=89.00000000 calibrationName='Dynamine_alexae-split';
+!MRCA='NW152_7_Lucinia_cadma-NW85_11_Nica_flavilla' TaxonA='NW152_7_Lucinia_cadma' TaxonB='NW85_11_Nica_flavilla' MaxTime=87.00000000 calibrationName='Sapindaceae-split';
+!MRCA='NW161_5_Mynes_katharina-CP04_39_Dagon_pusillus' TaxonA='NW161_5_Mynes_katharina' TaxonB='CP04_39_Dagon_pusillus' MinTime=33.80000000 MaxTime=140.00000000 calibrationName='Vanessa_amerindica-split';

@@ -1,0 +1,4 @@
+!MRCA='Cyclopes_didactylus_NC_028564-Dasypus_novemcinctus_NC_001821' TaxonA='Cyclopes_didactylus_NC_028564' TaxonB='Dasypus_novemcinctus_NC_001821' MinTime=58.50000000 MaxTime=71.20000000 calibrationName='Xenarthra';
+!MRCA='Cyclopes_didactylus_NC_028564-Bradypus_variegatus_NC_028501' TaxonA='Cyclopes_didactylus_NC_028564' TaxonB='Bradypus_variegatus_NC_028501' MinTime=31.50000000 MaxTime=65.50000000 calibrationName='Pilosa';
+!MRCA='Cyclopes_didactylus_NC_028564-Tamandua_tetradactyla_NC_004032' TaxonA='Cyclopes_didactylus_NC_028564' TaxonB='Tamandua_tetradactyla_NC_004032' MinTime=15.97000000 MaxTime=61.10000000 calibrationName='Vermilingua';
+!MRCA='Cabassous_unicinctus_NC_028559-Priodontes_maximus_NC_028573' TaxonA='Cabassous_unicinctus_NC_028559' TaxonB='Priodontes_maximus_NC_028573' MinTime=23.00000000 MaxTime=37.80000000 calibrationName='Tolypeutinae';
